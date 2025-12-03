@@ -9,7 +9,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CISSP®-Certified-FF6B6B?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="CISSP Badge" />
+  <img src="https://img.shields.io/badge/CISSP®-Candidate-FF6B6B?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="CISSP Badge" />
   <img src="https://img.shields.io/badge/Security-Operations-4ECDC4?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Security Ops" />
   <img src="https://img.shields.io/badge/Red-Team-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Red Team" />
 </p>
