@@ -72,23 +72,8 @@ class CyberSecurityAnalyst:
 
 
 
-⚙️ Skills & Tools
-| Category              | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                  | Proficiency |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 🔒 **Security Tools** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=flat\&logo=nmap\&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat\&logo=metasploit\&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat\&logo=burpsuite\&logoColor=white) | ⭐⭐⭐⭐⭐       |
-| 💻 **Programming**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat\&logo=powershell\&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)                                                                                                                 | ⭐⭐⭐⭐        |
-| ☁️ **Cloud Security** | ![AWS Security](https://img.shields.io/badge/AWS_Security-232F3E?style=flat\&logo=amazonaws\&logoColor=white) ![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)                                                                                                                                                                                  | ⭐⭐⭐         |
-
-
-
-
-📊 GitHub Analytics
-<div align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walid-red-ops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF6B6B) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walid-red-ops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000) ![Streak stats](https://streak-stats.demolab.com?user=walid-red-ops&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=888888) </div>
-
-
-
-🔗 Connect With Me
-<p align="center"> <a href="mailto:professional@email.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://linkedin.com/in/walidislam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://tryhackme.com/p/walidredops"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> </p>
-<div align="center"> 🛡️ Security First. Always. "In cybersecurity, there are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%"/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=walid-red-ops&color=FF0000&style=flat-square" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/walid-red-ops?color=FF0000&style=flat-square" alt="GitHub Followers"/> </p> </div> ```
-
-
+| Category              | Tools & Technologies                                                                                                                                                                                                 | Proficiency |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 🔒 **Security Tools** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat&logo=burpsuite&logoColor=white) | ⭐⭐⭐⭐⭐       |
+| 💻 **Programming**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐        |
+| ☁️ **Cloud Security** | ![AWS Security](https://img.shields.io/badge/AWS_Security-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ⭐⭐⭐         |
