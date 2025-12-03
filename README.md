@@ -70,10 +70,3 @@ class CyberSecurityAnalyst:
 | 🌐 Cyber Security Global Internship  | ICO Dawn Raid Simulation, Data Leak Legal Assessment, Compliance Framework Analysis       |
 | 📊 Cybersecurity Consulting          | Integrated Information Defense, Risk Assessment Modeling, Network Segmentation Design     |
 
-
-
-| Category              | Tools & Technologies                                                                                                                                                                                                 | Proficiency |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 🔒 **Security Tools** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat&logo=burpsuite&logoColor=white) | ⭐⭐⭐⭐⭐       |
-| 💻 **Programming**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐        |
-| ☁️ **Cloud Security** | ![AWS Security](https://img.shields.io/badge/AWS_Security-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ⭐⭐⭐         |
