@@ -42,5 +42,28 @@ class CyberSecurityAnalyst:
     def __str__(self):
         return f"{self.name} | {self.role}"
 
+
+
+🛡️ Certifications & Professional Development
+
+Security Certifications
+
+<p align="left"> <img src="https://img.shields.io/badge/CISSP®-Certified_Information_Systems_Security_Professional-FF6B6B?style=flat-square&logo=isc2&logoColor=white" alt="CISSP"/> <sub><em>Issued: June 2022 | Credential ID: 3539943</em></sub> </p> <p align="left"> <img src="https://img.shields.io/badge/Security_Assessment_&_Testing-Advanced_CISSP_Domain-4ECDC4?style=flat-square&logo=checkmarx&logoColor=white" alt="Security Assessment"/> <sub><em>Issued: June 2022 | Certificate: 3540155</em></sub> </p>
+
+Virtual Experience Programs (Forage)
+
+Program	Highlights
+🎯 Cyber Security Management	Social Engineering Analysis, Digital Investigation Procedures, Incident Response Planning
+🛠️ Cybersecurity Virtual Experience	Fraud Pattern Analysis, Application Security Testing, Email Classifier Development
+🌐 Cyber Security Global Internship	ICO Dawn Raid Simulation, Data Leak Legal Assessment, Compliance Framework Analysis
+📊 Cybersecurity Consulting	Integrated Information Defense, Risk Assessment Modeling, Network Segmentation Design
+⚙️ Skills & Tools
+Category	Tools & Technologies	Proficiency
+🔒 Security Tools	
+	⭐⭐⭐⭐⭐
+💻 Programming	
+	⭐⭐⭐⭐
+☁️ Cloud Security	
+	⭐⭐⭐
 analyst = CyberSecurityAnalyst()
 print(analyst)
