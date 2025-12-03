@@ -7,14 +7,14 @@
   </a>
 </h1>
 
-<!-- Animated Security Shield Badge -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/CISSP®-Certified-FF6B6B?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="CISSP Badge" />
   <img src="https://img.shields.io/badge/Security-Operations-4ECDC4?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Security Ops" />
   <img src="https://img.shields.io/badge/Red-Team-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Red Team" />
 </p>
 
-<!-- Animated Network Visualization -->
+<!-- Animated Network Line -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Network Line" width="100%"/>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔥 **About Me**
+## 🔥 About Me
 
 ```python
 class CyberSecurityAnalyst:
