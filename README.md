@@ -23,7 +23,35 @@
 
 ---
 
-## 🔥 About Me
+<h1 align="center">🛡️ Walid Red Ops</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Specialist;Security+Operations+Expert;Threat+Assessment+%26+Incident+Response;Red+Team+%26+Security+Auditing&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Specialist-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Security%20Operations-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certified-CISSP®-green?style=for-the-badge">
+</p>
+
+---
+
+<h1 align="center">🛡️ Walid Red Ops</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Specialist;Security+Operations+Expert;Threat+Assessment+%26+Incident+Response;Red+Team+%26+Security+Auditing&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Specialist-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Security%20Operations-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certified-CISSP®-green?style=for-the-badge">
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 ```python
 class CyberSecurityAnalyst:
@@ -43,30 +71,57 @@ class CyberSecurityAnalyst:
         return f"{self.name} | {self.role}"
 
 
-🛡️ ## Certifications & Professional Development
+🔐 Cybersecurity professional with strong expertise in security operations, threat assessment, incident response, and red team exercises.
+Focused on identifying vulnerabilities, strengthening defenses, and ensuring organizational resilience against cyber threats.
 
-### Security Certifications
-- **CISSP® (Certified Information Systems Security Professional)** — Jun 2022  
-  Certificate code: 3539943
-- **Introduction to CISSP Security Assessment & Testing and Security Operations** — Jun 2022  
-  Certificate code: 3540155
+🎯 Focus Areas
 
-### Cybersecurity Virtual Experience Programs (Forage)
-- **Cyber Security Management Virtual Experience Program** — Sep 2022  
-  Tasks: Social Engineering, Digital Investigation
-- **Cybersecurity Virtual Experience Program** — Aug 2022  
-  Tasks: Fraud Analysis, Application Security, Email Classifier
-- **Cyber Security Global Virtual Internship** — Aug 2022  
-  Tasks: ICO Dawn Raid, Data Leak Legal Assessment
-- **Cybersecurity Virtual Experience Program** — Jul 2022  
-  Tasks: Phishing Simulation
-- **Cybersecurity Consulting Virtual Case Experience** — Sep 2022  
-  Tasks: Integrated Information Defense, Risk Assessment, Network Segmentation
+🛡️ Security Operations
 
-| Program                              | Highlights                                                                                |
-| ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| 🎯 Cyber Security Management         | Social Engineering Analysis, Digital Investigation Procedures, Incident Response Planning |
-| 🛠️ Cybersecurity Virtual Experience | Fraud Pattern Analysis, Application Security Testing, Email Classifier Development        |
-| 🌐 Cyber Security Global Internship  | ICO Dawn Raid Simulation, Data Leak Legal Assessment, Compliance Framework Analysis       |
-| 📊 Cybersecurity Consulting          | Integrated Information Defense, Risk Assessment Modeling, Network Segmentation Design     |
+🔍 Threat Assessment & Analysis
 
+🚨 Incident Response
+
+🎯 Red Team Exercises
+
+📋 Security Auditing & Compliance
+
+🏅 Certifications & Professional Development
+🔐 Security Certifications
+
+CISSP® (Certified Information Systems Security Professional) — Jun 2022
+📄 Certificate Code: 3539943
+
+Introduction to CISSP – Security Assessment & Testing & Security Operations — Jun 2022
+📄 Certificate Code: 3540155
+
+🌐 Cybersecurity Virtual Experience Programs (Forage)
+
+Cyber Security Management Virtual Experience Program — Sep 2022
+🧠 Tasks: Social Engineering, Digital Investigation
+
+Cybersecurity Virtual Experience Program — Aug 2022
+🛠️ Tasks: Fraud Analysis, Application Security, Email Classifier
+
+Cyber Security Global Virtual Internship — Aug 2022
+⚖️ Tasks: ICO Dawn Raid, Data Leak Legal Assessment
+
+Cybersecurity Virtual Experience Program — Jul 2022
+🎣 Tasks: Phishing Simulation
+
+Cybersecurity Consulting Virtual Case Experience — Sep 2022
+📊 Tasks: Integrated Information Defense, Risk Assessment, Network Segmentation
+
+📊 Program Highlights
+| Program                              | Key Highlights                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------ |
+| 🎯 Cyber Security Management         | Social Engineering Analysis, Digital Investigation, Incident Response Planning |
+| 🛠️ Cybersecurity Virtual Experience | Fraud Pattern Analysis, App Security Testing, Email Classifier Development      |
+| 🌐 Global Cyber Internship           | ICO Dawn Raid, Data Leak Legal Assessment, Compliance Analysis                 |
+| 📊 Cybersecurity Consulting          | Information Defense, Risk Assessment Modeling, Network Segmentation Design     |
+
+
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"> </p> <p align="center"> 🔐 <b>Defending systems. Simulating attacks. Strengthening security.</b> </p> ```
