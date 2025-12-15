@@ -37,17 +37,6 @@
 
 ---
 
-<h1 align="center">🛡️ Walid Red Ops</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Specialist;Security+Operations+Expert;Threat+Assessment+%26+Incident+Response;Red+Team+%26+Security+Auditing&center=true&width=650&height=45">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Specialist-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Security%20Operations-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Certified-CISSP®-green?style=for-the-badge">
-</p>
 
 ---
 
