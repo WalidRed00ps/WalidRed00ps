@@ -124,4 +124,3 @@ Cybersecurity Consulting Virtual Case Experience — Sep 2022
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"> </p> <p align="center"> 🔐 <b>Defending systems. Simulating attacks. Strengthening security.</b> </p> ```
